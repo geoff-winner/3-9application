@@ -4,7 +4,7 @@
 
     class TitleCaseGeneratorTest extends PHPUnit_Framework_TestCase
     {
-        function test_makeTitleCase_oneWord()
+        function test_makeTitleCase1_oneWord()
     {
 
         //Arrange
